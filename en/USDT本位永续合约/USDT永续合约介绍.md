@@ -1,19 +1,21 @@
-# USDT永续合约介绍
+# USDT Perpetual Contract Introduction
 
 ------
 
-**保证金**
+**Margin**
 
-USDT本位永续合约所有品种合约都使用计价币种USDT作为担保资产，用户只需要持有USDT即可参与各个品种合约的交易；币本位永续合约是以标的币种作为担保资产，用户需要持有对应标的币种方可参与该品种合约的交易，比如BTC/USD币本位永续合约，用户需要转入BTC充当担保资产。 由于充当担保资产币种的不同，在价格下跌时，两种合约的担保资产贬值的风险也有所不同。假设当BTC/USD币本位永续价格下跌时，对用户仓位所需的担保资产要求越高，持仓担保资产所需的BTC越多；但USDT本位永续合约因为所需的担保资产是USDT，BTC币价下跌不会影响USDT担保资产的价值。
+USDT standard perpetual contract in all varieties of contracts use the denominated currency USDT as collateral assets, the user only needs to hold USDT to participate in the transaction of each variety contract; currency-based perpetual contracts are secured assets in the underlying currency, and the user needs to hold the corresponding currency to participate in the transaction of the symbol contract, such as the BTC/USD currency standard perpetual contract, and the user needs to transfer to BTC as a secured asset.
 
-**计价单位**
+Because of the different currencies in which the guaranteed assets are used, the risk of depreciation of the guaranteed assets in both contracts varies when prices fall. Suppose that when the price of the BTC/USD currency is perpetual, the higher the requirement for the secured asset required for the user's position, the more BTC is required to hold the secured asset, but the USDT standard perpetual contract does not affect the value of the USDT secured asset because the required secured asset is USDT.
 
-USDT本位永续合约是以USDT为计价单位；币本位永续合约是以美元为计价单位。因此两者之间的指数价格也会有所不同，比如BTC/USDT的指数价格是取各交易所BTC现货兑USDT的价格；而BTC/USD币本位永续合约的指数价格是取各交易所BTC现货兑美元的价格。
+**Valuation Unit**
 
-**合约面值**
+A USDT standard perpetual contract is denominated in USDT and a currency standard perpetual contract is denominated in US dollars. "Thus the index prices between the two will also vary, e.g. the BTC/USDT index price is the price taken from the BTC spot to USDT on each exchange, and the BTC/USD currency standard perpetual contract is the price taken from the BTC spot USD on each exchange."
 
-USDT本位永续合约每张合约的价值为对应的标的币种，比如BTC/USDT的面值为0.001BTC；币本位永续合约每张合约的价值为USD，比如BTC/USD的合约面值为100美元。
+**The face value of the contract**
 
-**盈亏币种**
+The value of each contract for USDT standard per contract is the corresponding underlying currency, e.g. BTC/USDT has a face value of 0.001BTC, and the value of each contract is USD, e.g. BTC/USD is $100.
 
-USDT本位永续合约所有品种合约都使用计价币种USDT计算盈亏；币本位永续合约是以标的币种计算盈亏，比如用户交易BTC/USD币本位永续合约，盈亏的币种是BTC。
+**Profit and loss currency**
+
+All type of contracts of the USDT standard perpetual contract use the denominated currency USDT to calculate profit or loss, and the currency standard perpetual contract calculates the profit or loss in the underlying currency, e.g. the user trades the BTC/USD currency standard perpetual contract in the currency BTC.
