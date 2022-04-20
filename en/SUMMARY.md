@@ -1,6 +1,6 @@
 # 菜单列表
 
-* [Language](../SUMMARY.md)
+* [Language](../LANGS.md)
     * [简体中文](../zh)
     * [English]()
 * [永续合约简介](永续合约简介.md)
