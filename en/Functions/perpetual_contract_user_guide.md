@@ -1,7 +1,5 @@
 # Perpetual contract user guide
 
-***
-
 ## Ⅰ Enter contract trading
 
 * Click on "Contract" on the home page to go to the Contract Trading page

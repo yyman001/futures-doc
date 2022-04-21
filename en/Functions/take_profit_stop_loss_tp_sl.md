@@ -1,7 +1,5 @@
 # Take Profit, Stop Loss TP/SL
 
----
-
 ## What is a Take Profit Stop loss order?
 
 Take Profit Stop Loss Order: setting the trigger price and order parameters in advance, wherein the trigger price is the precondition for placing an order operation, generally the target Take Profit Stop Loss position, when the market's latest trade price reaches the trigger price, the system will be set by the user to place an order in accordance with the order parameters to close the position, in order to preserve profits or reduce losses.

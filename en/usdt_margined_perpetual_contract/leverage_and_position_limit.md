@@ -1,6 +1,5 @@
-# **Leverage and position limit**
+# Leverage and position limit
 
----
 
 Risk limits are a risk management mechanism used to limit a trader's position risk. In a volatile trading environment, a single trader holding a large position with high leverage can result in significant losses. The system uses the concept of dynamic leverage, i.e. the maximum leverage available for trading will vary depending on the value of the position held by the trader: the greater the value of the position held, the lower the maximum leverage available. At the same time, the larger the leverage selected, the smaller the open position.
 

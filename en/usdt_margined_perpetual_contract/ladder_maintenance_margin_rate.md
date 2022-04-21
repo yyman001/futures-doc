@@ -1,6 +1,4 @@
-# **Ladder Maintenance Margin Rate**
-
----
+# Ladder Maintenance Margin Rate
 
 **Maintenance margin rate**
 

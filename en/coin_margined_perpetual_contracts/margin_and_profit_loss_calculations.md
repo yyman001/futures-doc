@@ -1,7 +1,5 @@
 # Margin and profit/loss calculations
 
-------
-
 **Open position margin**
 
 Open position margin is the minimum collateral amount required to open a position in a leveraged trade. The leverage multiple used by the trader is inversely proportional to the opening margin required to open a position. The higher the leverage, the less margin is required to open a position.
