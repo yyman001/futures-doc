@@ -35,6 +35,7 @@ Risk limits are a risk management mechanism used to limit a trader's position ri
 | 7,500 ~50,000                 | 1x               |
 
 **LTCUSD Contract**
+
 | Position nominal value（LTC） | Maximum leverage |
 | :---------------------------- | :--------------- |
 | 0 ~2,500                      | 20x              |
