@@ -1,3 +1,6 @@
 {
-  "root": "./zh"
+  "root": "./zh",
+  "plugins": [
+    "auto-scroll-table"
+  ]
 }
