@@ -3,7 +3,8 @@
   "plugins": [
     "auto-scroll-table",
     "ancre-navigation",
-    "i18n-upgrade"
+    "i18n-upgrade",
+    "theme-comscore"
   ],
   "pluginsConfig": {
     "i18n": {
