@@ -21,6 +21,7 @@
   * [Margin and profit/loss calculations](coin_margined_perpetual_contracts/margin_and_profit_loss_calculations.md)
 * Functions
   * [Perpetual contract user guide](Functions/perpetual_contract_user_guide.md)
+  * [Full Position And Per Position Margin Models](Functions/perpetual_contract_user_guide.md)
   * [One-way and two-way positions](Functions/one_way_and_two_way_positions.md)
   * [Take Profit, Stop Loss TP/SL](Functions/take_profit_stop_loss_tp_sl.md)
   * [Take Profit Stop Loss Order](Functions/take_profit_stop_loss_order.md)
