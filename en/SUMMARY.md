@@ -1,8 +1,5 @@
 # 菜单列表
 
-* [Language](../LANGS.md)
-    * [简体中文](../zh)
-    * [English]()
 * [Introduction to perpetual contracts](README.md)
 * Overview
     * [Funding Rate](Overview/funding_rate.md)
