@@ -1,0 +1,17 @@
+{
+  "name": "futures-doc",
+  "version": "1.0.0",
+  "description": "futures-doc.",
+  "scripts": {
+    "install": "gitbook install",
+    "pdf": "gitbook pdf",
+    "dev": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-i18n-upgrade": "^2.0.0",
+    "gitbook-plugin-ancre-navigation": "1.0.0",
+    "gitbook-plugin-auto-scroll-table": "0.0.5"
+  }
+}
