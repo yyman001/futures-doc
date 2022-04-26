@@ -1,7 +1,5 @@
 # Ladder Maintenance Margin Rate
 
----
-
 **Maintenance margin rate**
 
 Margin rate is a measure of the risk of position-guaranteed assets, maintenance margin is the minimum margin rate of a position, when the position margin rate reaches the maintenance margin rate, your position will be forced to be taken over by the system. We use the marked price to calculate margin rates to avoid forced closing due to non-liquidity or market manipulation.

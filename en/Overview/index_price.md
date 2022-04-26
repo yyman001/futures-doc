@@ -1,6 +1,5 @@
 # Index Price
-
----
+>What is index price?
 
 The index price is based on the latest transaction price of the standard currency pair of the mainstream exchange in the market and the median buy-to-sell median, weighted average, calculated and obtained index price, which can represent the fair market price of the currency pair.
 

@@ -1,7 +1,5 @@
 # **Funding Rate**
 
-------
-
 For the contract on delivery date, the contract market price will return to the index price, the perpetual contract does not expire or gets delivered, the contract price needs to be "capital fee mechanism" to anchor the spot price.
 
 **Collection of funds**

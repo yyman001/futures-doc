@@ -1,7 +1,5 @@
 # Insurance fund and allocation
 
-------
-
 **What is an insurance fund?**
 
 Insurance funds are designed to compensate for losses caused by user positions being lost in particular markets to reduce the likelihood of user funds division.

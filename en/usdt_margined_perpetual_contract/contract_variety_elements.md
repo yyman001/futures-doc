@@ -1,7 +1,5 @@
 # Contract variety elements
 
----
-
 All USDT contract basic parameters are as follows:
 
 | Contract code | Margin coin | Contract face value | Minimum price variation | Minimum maintenance margin rate |

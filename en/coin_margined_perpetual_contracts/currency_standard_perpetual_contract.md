@@ -1,7 +1,5 @@
 # Currency Standard Perpetual Contract
 
-------
-
 **Margin**
 
 Unlike a USDT contract with USDT as a margin, a currency-based perpetual contract is a secured asset in the underlying currency, and the user needs to hold the corresponding currency to participate in the trading of the currency contract, such as a BTC/USD currency-based perpetual contract, and the user needs to transfer to BTC as a secured asset.

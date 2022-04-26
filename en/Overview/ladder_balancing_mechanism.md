@@ -1,7 +1,5 @@
 # Ladder balancing mechanism
 
-------
-
 **What is a forced balancing?**
 
 Margin rate is a measure of the risk of position-guaranteed assets, and when the margin rate is close to the minimum maintenance margin rate, the position will be forced to take over by the system. We use the marked price to calculate margin rates to avoid forced closing due to illiquidity or market manipulation.

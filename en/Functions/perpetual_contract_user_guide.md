@@ -3,35 +3,59 @@
 ## Ⅰ Enter contract trading
 
 * Click on "Contract" on the home page to go to the Contract Trading page
+
+![](../images/1.png)
+
 * Go to the contract trading page and log in to learn about the contents of each setting information, including: contract information, orders submitted, order list, latest transactions, position records, depth charts etc. At the same time, the lower left contract information section, showing the relevant information about the contract, list of common problems in trading and index information, easy to access at any time!
+
+![](../images/2.png)
 
 ## Ⅱ Trading
 
-**1. Choosing trading pair** 
+**1. Choosing trading pair**
+
 Select the trading pair in the trade pair switching area. Mainly includes USDT contracts, currency-based contracts and Simulation of contract.
 
+![](../images/3.png)
+
 **2. Funds transfer**
+
 If there are not enough funds available at present, the funds in the coin account can be transferred to the contract account. If the coin account still does not have funds, it can be recharged or traded in Fiat currency.
 
+![](../images/4.png)
+![](../images/4-2.png)
+
 **3. Contract setting**
+
+![](../images/5.png)
+
  - Leverage
+
  A multi-range adjustable leverage multiple is currently available to select up to 125x leverage.
 
 - Full Position
+
 Also known as "cross-term margin", it is the use of all available balances in an account as margin to avoid forced closing. Any other position that has been profitable can help increase margin on a loss-making position. Please note that all positions in the default state are initially set to Full Position Margin.
 
 - Restricted Position
+
 The maximum loss for the user is limited to the starting margin used. When a position is forced to close, no available balance is used to increase the margin of the position. By isolating the margin used in a position, you can limit the loss on that position to the initial guaranteed amount, which can help you if your short-term speculative trading strategy fails. When using restricted position margin, you can select the appropriate leverage. The higher the leverage, the less margin will be used for this position.
 
 **4. Submit Order**
+
+![](../images/6.png)
+
 - Limit order
+
 A limit order is the highest or lowest price that a trader uses to specify a buy or sell, and a trader reduces his or her transaction costs by limiting the ordering price. However, if the order price is far from the current market price, then the order may not be confirmed. In a limit order, the user enters the limited order price and the number of positions.
 
 - Market order
+
 A market order is immediately confirmed in the current market, which is selected when a trader needs an emergency deal mandate. Selecting this type is to be noted the order in the list, otherwise a large market-value order may "break through the list" and cause market impact costs. Only the opening value or the number of open positions need to be entered when trading on a market order.
 
 
 - High-end limit order
+
 > - PO: "Only Maker (Post Only)", will not immediately convert in the market, to ensure that the user is always Maker; If the order is immediately closed with an existing value, then it may be canceled;
 
 > - IOC: "Immediate or Cancel", if your order is set to "Close now and cancel the remaining", any unsold parts will be cancelled immediately;
@@ -39,20 +63,26 @@ A market order is immediately confirmed in the current market, which is selected
 > - FOK: "Full deal or cancellation immediately (Fill or Kill)", the order will only be completed immediately, otherwise it will be cancelled.
 
 - Buyer Buy Long
+
 If the trader determines that future market prices will rise, then should buy long and buy a fixed number of contracts.
 
 Buy Long is actually buying a contract at the right price, waiting for the market price to rise and then sell (balancing) to earn the difference, similar to spot trading, referred to as "buy first, sell later"
 
 - Seller Sell Short
+
 If the trader determines that the future price will fall, he will sell short and sell a fixed number of contracts.
 
 Sell short is actually selling the contract at the right price, waiting for the market price to fall before buying (balancing) to earn the difference, referred to as "sell first and buy later".
 
 - Costs
+
 Open position cost= open position value/leverage, the margin to be occupied for opening a position, the unit is the contract margin currency.
 
 
 ## Ⅲ Hold positions
+
+![](../images/7.png)
+
 After converting open positions orders it will generate hold positions, the current position list shows all the trades of the hold position, position information is described below,
 
 * Levelable quantity: The number of open positions remaining in the current position
@@ -88,6 +118,10 @@ When the latest transaction price ≥ trigger price, take profit is triggered, a
 
 When the latest trade price ≤ trigger price is, trigger stop loss, triggered will be the order price and the number of orders submitted to close it.
 
+![](../images/8.png)
+
+[How to set stop profit and loss](take_profit_stop_loss_tp_sl.md##如何设置止盈止损)
+
 ## Ⅳ preferences settings
 
 - Position type
@@ -95,25 +129,8 @@ Contracts allow users to select two-way and one-way position types, one-way open
 
 - Order and confirm the box
 Whether a secondary confirmation bullet box is required to set up a trade
+
 - Contract unit
 The contract unit is the number of transaction units on the front-end trading page, and the number of transactions under the order area and order list on the modified trading page will be modified to the set contract unit.
 
-**Full position and restrictive position margin model**
-
-- Restrictive position margin mode
-
-The restrictive position margin model means that the margin of a position is separate from the trader's account balance. In this margin mode, traders are free to determine the multiple of leverage used. If a position is forced to close, the maximum loss that the trader has to bear is the position margin.
-
-- Full position margin mode
-
-The full position margin model refers to the use of all available balances in the corresponding currency as margin to maintain positions and avoid forced balancing. In this margin mode, a forced close is triggered when the net asset value is insufficient to meet the demand for maintenance margin. If the position is forced to close, the trader will lose all assets in the corresponding currency.
-
-- Adjusting the margin
-
-Only restrictive position can adjust margin, when adjusting restrictive position margin:
-Maximum margin that the user can reduce is= Max (total equity per position - initial margin, 0)
-The maximum margin that the user can increase = available
-At full position margin, the trader cannot adjust the margin. The system will default to the maximum leverage allowed under the current risk limit to calculate the starting margin.
-***Can I switch between full position and restrictive position mode when holding positions?***
-No. Margin mode cannot be adjusted when holding positions or pending orders for this contract.
-
+![](../images/9.png)

@@ -1,7 +1,5 @@
 # One-way and two-way positions
 
-------
-
 **One-way position mode**
 
 In one-way position mode, a contract allows only one position in one direction. When the reverse opening behavior occurs, the existing position is closed before the opening is made.

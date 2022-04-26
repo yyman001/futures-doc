@@ -1,7 +1,5 @@
 # USDT Perpetual Contract Introduction
 
-------
-
 **Margin**
 
 USDT standard perpetual contract in all varieties of contracts use the denominated currency USDT as collateral assets, the user only needs to hold USDT to participate in the transaction of each variety contract; currency-based perpetual contracts are secured assets in the underlying currency, and the user needs to hold the corresponding currency to participate in the transaction of the symbol contract, such as the BTC/USD currency standard perpetual contract, and the user needs to transfer to BTC as a secured asset.
