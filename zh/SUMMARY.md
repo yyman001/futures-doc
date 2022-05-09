@@ -19,6 +19,12 @@
   * [杠杆和持仓上限](coin_margined_perpetual_contracts/leverage_and_position_limit.md)
   * [阶梯维持保证金率](coin_margined_perpetual_contracts/ladder_maintenance_margin_rate.md)
   * [保证金和盈亏计算](coin_margined_perpetual_contracts/margin_and_profit_loss_calculations.md)
+* 衍生品USDT永续合约
+  * [衍生品USDT永续合约介绍](derivative_margined_perpetual_contract/usdt_perpetual_contract_introduction.md)
+  * [合约品种要素](derivative_margined_perpetual_contract/contract_variety_elements.md)
+  * [杠杆和持仓上限](derivative_margined_perpetual_contract/leverage_and_position_limit.md)
+  * [阶梯维持保证金率](derivative_margined_perpetual_contract/ladder_maintenance_margin_rate.md)
+  * [保证金和盈亏计算](derivative_margined_perpetual_contract/margin_and_profit_loss_calculations.md) 
 * 功能介绍
   * [永续合约使用指南](Functions/perpetual_contract_user_guide.md)
   * [全仓和逐仓保证金模式](Functions/full_position_and_per_position_margin_models.md)

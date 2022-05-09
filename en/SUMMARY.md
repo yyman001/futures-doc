@@ -19,6 +19,12 @@
   * [Leverage and position limit](coin_margined_perpetual_contracts/leverage_and_position_limit.md)
   * [Ladder Maintenance Margin Rate](coin_margined_perpetual_contracts/ladder_maintenance_margin_rate.md)
   * [Margin and profit/loss calculations](coin_margined_perpetual_contracts/margin_and_profit_loss_calculations.md)
+* Derivative USDT Perpetual Contract
+  * [Derivative USDT Perpetual Contract Introduction](derivative_margined_perpetual_contract/usdt_perpetual_contract_introduction.md)
+  * [Contract variety elements](derivative_margined_perpetual_contract/contract_variety_elements.md)
+  * [Leverage and position limit](derivative_margined_perpetual_contract/leverage_and_position_limit.md)
+  * [Ladder Maintenance Margin Rate](derivative_margined_perpetual_contract/ladder_maintenance_margin_rate.md)
+  * [Margin and profit loss calculations](derivative_margined_perpetual_contract/margin_and_profit_loss_calculations.md) 
 * Functions
   * [Perpetual contract user guide](Functions/perpetual_contract_user_guide.md)
   * [Full Position And Per Position Margin Models](Functions/perpetual_contract_user_guide.md)
