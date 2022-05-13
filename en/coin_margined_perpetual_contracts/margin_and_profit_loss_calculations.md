@@ -51,10 +51,10 @@ For multiple positions
 
 Trader B now holds 1,000 long position BTCUSD, opening price is 5000 USD. When the latest market price in the order table is shown as 5,500 USD, the unrealized profit and loss is displayed as 0.01819 BTC.
 
-Unrealized profit/loss= Contract quantity x [(1/average open price) - (1/latest market price)]
+Unrealized profit/loss= Contract quantity * [(1/average open price) - (1/latest market price)]
 
-= 1000 x [ (1 / 5000) - (1 / 5500)]
-= 1,000 x 0.00001819 BTC
+= 1000 * [ (1 / 5000) - (1 / 5500)]
+= 1,000 * 0.00001819 BTC
 = 0.01819 BTC
 
 For short positions
@@ -63,10 +63,10 @@ For short positions
 
 Trader C now holds 1,000 BTCUSD short positions, opening price is 5000 USD. When the latest market price in the order table is shown as 4,500 USD, the unrealized profit and loss is displayed as 0.02223 BTC.
 
-Unrealized profit/loss= Contract quantity x [(1/latest market price) - (1/average open price)]
+Unrealized profit/loss= Contract quantity * [(1/latest market price) - (1/average open price)]
 
-= 1000 x [ (1 / 4500) - (1 / 5000)]
-= 1,000 x 0.00002223 BTC
+= 1000 * [ (1 / 4500) - (1 / 5000)]
+= 1,000 * 0.00002223 BTC
 = 0.02223 BTC
 
 ***Note:***
