@@ -4,7 +4,7 @@
 * [README](<README (1).md>)
 * [Introduction to perpetual contracts](en/README.md)
   * [overview](en/overview/README.md)
-    * [Funding Rate](en/overview/funding\_rate.md)
+    * [Funding Rate](en/overview/funding-rate.md)
     * [Mark Price](en/overview/mark\_price.md)
     * [Index Price](en/overview/index\_price.md)
     * [Ladder balancing mechanism](en/overview/ladder\_balancing\_mechanism.md)
