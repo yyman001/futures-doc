@@ -2,11 +2,11 @@
 
 * [永续合约简介](README.md)
 * 概述
-  * [资金费率](Overview/funding_rate.md)
-  * [标记价格](Overview/mark_price.md)
-  * [指数价格](Overview/index_price.md)
-  * [阶梯强平机制](Overview/ladder_balancing_mechanism.md)
-  * [保险基金与分摊](Overview/insurance_fund_and_allocation.md)
+  * [资金费率](overview/funding_rate.md)
+  * [标记价格](overview/mark_price.md)
+  * [指数价格](overview/index_price.md)
+  * [阶梯强平机制](overview/ladder_balancing_mechanism.md)
+  * [保险基金与分摊](overview/insurance_fund_and_allocation.md)
 * USDT本位永续合约
   * [USDT永续合约介绍](usdt_margined_perpetual_contract/usdt_perpetual_contract_introduction.md)
   * [合约品种要素](usdt_margined_perpetual_contract/contract_variety_elements.md)
@@ -26,8 +26,8 @@
   * [阶梯维持保证金率](derivative_margined_perpetual_contract/ladder_maintenance_margin_rate.md)
   * [保证金和盈亏计算](derivative_margined_perpetual_contract/margin_and_profit_loss_calculations.md) 
 * 功能介绍
-  * [永续合约使用指南](Functions/perpetual_contract_user_guide.md)
-  * [全仓和逐仓保证金模式](Functions/full_position_and_per_position_margin_models.md)
-  * [单向持仓和双向持仓](Functions/one_way_and_two_way_positions.md)
-  * [止盈止损](Functions/take_profit_stop_loss_tp_sl.md)
-  * [委托止盈止损](Functions/take_profit_stop_loss_order.md)
+  * [永续合约使用指南](functions/perpetual_contract_user_guide.md)
+  * [全仓和逐仓保证金模式](functions/full_position_and_per_position_margin_models.md)
+  * [单向持仓和双向持仓](functions/one_way_and_two_way_positions.md)
+  * [止盈止损](functions/take_profit_stop_loss_tp_sl.md)
+  * [委托止盈止损](functions/take_profit_stop_loss_order.md)

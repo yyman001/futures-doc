@@ -2,11 +2,11 @@
 
 * [Introduction to perpetual contracts](README.md)
 * Overview
-    * [Funding Rate](Overview/funding_rate.md)
-    * [Mark Price](Overview/mark_price.md)
-    * [Index Price](Overview/index_price.md)
-    * [Ladder balancing mechanism](Overview/ladder_balancing_mechanism.md)
-    * [Insurance fund and allocation](Overview/insurance_fund_and_allocation.md)
+    * [Funding Rate](overview/funding_rate.md)
+    * [Mark Price](overview/mark_price.md)
+    * [Index Price](overview/index_price.md)
+    * [Ladder balancing mechanism](overview/ladder_balancing_mechanism.md)
+    * [Insurance fund and allocation](overview/insurance_fund_and_allocation.md)
 * USDT margined perpetual contract
     * [USDT Perpetual Contract Introduction](usdt_margined_perpetual_contract/usdt_perpetual_contract_introduction.md)
     * [Contract variety elements](usdt_margined_perpetual_contract/contract_variety_elements.md)
@@ -26,8 +26,8 @@
   * [Ladder Maintenance Margin Rate](derivative_margined_perpetual_contract/ladder_maintenance_margin_rate.md)
   * [Margin and profit loss calculations](derivative_margined_perpetual_contract/margin_and_profit_loss_calculations.md) 
 * Functions
-  * [Perpetual contract user guide](Functions/perpetual_contract_user_guide.md)
-  * [Full Position And Per Position Margin Models](Functions/full_position_and_per_position_margin_models.md)
-  * [One-way and two-way positions](Functions/one_way_and_two_way_positions.md)
-  * [Take Profit, Stop Loss TP/SL](Functions/take_profit_stop_loss_tp_sl.md)
-  * [Take Profit Stop Loss Order](Functions/take_profit_stop_loss_order.md)
+  * [Perpetual contract user guide](functions/perpetual_contract_user_guide.md)
+  * [Full Position And Per Position Margin Models](functions/full_position_and_per_position_margin_models.md)
+  * [One-way and two-way positions](functions/one_way_and_two_way_positions.md)
+  * [Take Profit, Stop Loss TP/SL](functions/take_profit_stop_loss_tp_sl.md)
+  * [Take Profit Stop Loss Order](functions/take_profit_stop_loss_order.md)
